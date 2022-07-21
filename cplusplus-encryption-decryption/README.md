@@ -1,6 +1,5 @@
 C++ Encryption/Decryption Program
 ==========
-You can take reference of this program in your C++ project.
 
 
 How it Works
