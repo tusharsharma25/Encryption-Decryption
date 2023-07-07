@@ -1,7 +1,5 @@
 /*
 Encryption and Decryption Program (Written in C++)
-By Sudeep Acharya
-http://twitter.com/acsudeep
 
 Encryption and decryption is done by the method of letter shifting.
 */
